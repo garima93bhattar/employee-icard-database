@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://garima93bhattar.github.io/employee-icard-database",
+  "homepage": "https://garima93bhattar.github.io/employee-icard-database/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
