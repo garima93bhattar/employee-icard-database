@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-icard-database/static/css/main.efee15d3.css",
+    "main.js": "/employee-icard-database/static/js/main.36316644.js",
+    "static/js/787.28cb0dcd.chunk.js": "/employee-icard-database/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/employee-icard-database/index.html",
+    "main.efee15d3.css.map": "/employee-icard-database/static/css/main.efee15d3.css.map",
+    "main.36316644.js.map": "/employee-icard-database/static/js/main.36316644.js.map",
+    "787.28cb0dcd.chunk.js.map": "/employee-icard-database/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efee15d3.css",
+    "static/js/main.36316644.js"
+  ]
+}
